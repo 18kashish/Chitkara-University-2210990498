@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main()
+	\\ pattern question
+	\\star pattern
 {
 	int i,j,k=1;
 	printf("pattern is");
