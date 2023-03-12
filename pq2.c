@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+	\\ program for switch
 {
 	int schl;
 	printf("enter the schl");
@@ -16,10 +17,6 @@ int main()
 	else if(scope==4)
 	{
 		printf("use UMP9,AKM,SAR-L,Cross Bow");
-	}
-	else if(scope==2)
-	{
-		printf("almost all guns");
 	}
 	else
 	{
