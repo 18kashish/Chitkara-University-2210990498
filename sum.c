@@ -7,6 +7,6 @@ int main()
 	printf("\narray 1");
 	for(i=0;i<n;i++)
 	{
-		printf("\nelements-%
-    
+		printf("\nelements-%d,i);
+		scanf("%d",&a[i]);  }
 }
